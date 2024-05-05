@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arwataskleadliaison/static/css/main.62d44804.css",
+    "main.js": "/arwataskleadliaison/static/js/main.b2d07a7a.js",
+    "static/js/453.68693753.chunk.js": "/arwataskleadliaison/static/js/453.68693753.chunk.js",
+    "index.html": "/arwataskleadliaison/index.html",
+    "main.62d44804.css.map": "/arwataskleadliaison/static/css/main.62d44804.css.map",
+    "main.b2d07a7a.js.map": "/arwataskleadliaison/static/js/main.b2d07a7a.js.map",
+    "453.68693753.chunk.js.map": "/arwataskleadliaison/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d44804.css",
+    "static/js/main.b2d07a7a.js"
+  ]
+}
